@@ -3,13 +3,22 @@
     "displayName": "Monokai Drake",
     "description": "A Monokai Themes made for you and only you ! ❤❤",
     "version": "0.0.1",
+    "publisher": "lakshits11",
+    "author": {
+        "name": "Lakshit Somani",
+        "email": "lakshits11@gmail.com"
+    },
     "engines": {
         "vscode": "^1.53.0"
     },
     "categories": [
         "Themes"
     ],
-    "repository": {},
+    "icon":"icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lakshits11/monokai-drake.git"
+    },
     "contributes": {
         "themes": [
             {
