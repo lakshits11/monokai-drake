@@ -1,0 +1,27 @@
+{
+    "name": "monokai-drake",
+    "displayName": "Monokai Drake",
+    "description": "A Monokai Themes made for you and only you ! ❤❤",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {},
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Drake",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Drake.json"
+            },
+            {
+                "label": "Monokai Drake No Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Drake No Italics.json"
+            }
+        ]
+    }
+}
