@@ -206,10 +206,17 @@
         },
         {
             "name": "Class name",
-            "scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
+            "scope": "entity.name.class, entity.name.namespace, entity.name.scope-resolution",
             "settings": {
-                "fontStyle": "underline",
+                "fontStyle": "",
                 "foreground": "#A6E22E"
+            }
+        },
+        {
+            "scope": "entity.name.type",
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#FFf"
             }
         },
         {
